@@ -160,7 +160,8 @@
 
 <h3 id="content_1_15"><a id="rf23614d" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#rf23614d" title="rf23614d"><span class="sanchor">_</span></a> <a href="http://david.abcc.ncifcrf.gov/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">DAVID: The Database for Annotation, Visualization and Integrated Discovery</span></a>  </h3>
 <p><span style="color:green">マイクロアレイデータの生物学的な解釈</span></p>
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS31%2Fthecla&amp;openfile=microarray.analysis.005.png" title="microarray.analysis.005.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS31%2Fthecla&amp;src=microarray.analysis.005.png" alt="microarray.analysis.005.png" title="microarray.analysis.005.png" width="410" height="242" /></a></div>
+
+![microarray.analysis.005.png](microarray.analysis.005.png)
 
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>上で述べたマイクロアレイの結果の解析は、統計解析で、それらの遺伝子が生物学的にどういう意味を持つかわかりません。</li>
 <li>そこで、Gene Ontologyの用語を付与することで、生物学的な解釈を行います。</li>
@@ -181,7 +182,8 @@
 <a name="plugin_fold_anchor1"></a>
 <div class="plugin_fold_title_plus" onclick="return plugin_fold_onclick(this,event,'plugin_fold_anchor1')"><p>結果</p>
 </div>
-<div class="plugin_fold_body"><div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS31%2Fthecla&amp;openfile=david.ajacs31.png" title="david.ajacs31.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS31%2Fthecla&amp;src=david.ajacs31.png" alt="david.ajacs31.png" title="david.ajacs31.png" width="1025" height="966" /></a></div>
+
+![](david.ajacs31.png)
 
 </div></li>
 <li>[応用編] Pathways &gt; KEGG_PATHWAY や Tissue Expression &gt; UP_TISSUE なども見てみよう。生物学的にどういうことが言えるだろうか。</li></ul>
@@ -221,15 +223,19 @@
 <a href="http://www.hssnet.co.jp/2/2_3_10_1.html" rel="nofollow">次世代シーケンス解析サービス：概要・原理 | 北海道システム・サイエンス株式会社</a>より</li>
 <li>超並列</li>
 <li>どんなの?
-<ul class="list3" style="padding-left:16px;margin-left:16px"><li>Illumina Genome AnalyzerIIx
-<div class="img_margin" style="text-align:left"><a href="http://g86.dbcls.jp/~togoriv/wp-content/uploads/2011/04/GenomeSequencer1_sm.png" title="GenomeSequencer1_sm.png"><img src="http://g86.dbcls.jp/~togoriv/wp-content/uploads/2011/04/GenomeSequencer1_sm.png" alt="GenomeSequencer1_sm.png" title="GenomeSequencer1_sm.png" /></a></div>
-</li>
-<li>Roche GS FLX+
-<div class="img_margin" style="text-align:left"><a href="http://g86.dbcls.jp/~togoriv/wp-content/uploads/2011/05/Genomesequencer3_sm1.png" title="Genomesequencer3_sm1.png"><img src="http://g86.dbcls.jp/~togoriv/wp-content/uploads/2011/05/Genomesequencer3_sm1.png" alt="Genomesequencer3_sm1.png" title="Genomesequencer3_sm1.png" /></a></div>
-</li>
-<li>SOLiD3+
-<div class="img_margin" style="text-align:left"><a href="http://g86.dbcls.jp/~togoriv/wp-content/uploads/2011/04/genomesequencer2_sm.png" title="genomesequencer2_sm.png"><img src="http://g86.dbcls.jp/~togoriv/wp-content/uploads/2011/04/genomesequencer2_sm.png" alt="genomesequencer2_sm.png" title="genomesequencer2_sm.png" /></a></div>
-</li>
+<ul class="list3" style="padding-left:16px;margin-left:16px"><li>Illumina Genome AnalyzerIIx</li>
+
+![](GenomeSequencer1_sm.png)
+
+
+<li>Roche GS FLX+</li>
+
+![](Genomesequencer3_sm1.png)
+
+<li>SOLiD3+0</li>
+
+![](genomesequencer2_sm.png)
+
 <li>Togo picture gallery ( <a href="http://g86.dbcls.jp/~togoriv/" rel="nofollow">http://g86.dbcls.jp/~togoriv/</a> ) より
 <div class="img_margin" style="text-align:left"><a href="http://creativecommons.jp/wp/wp-content/uploads/2009/10/by.png" title="by.png"><img src="http://creativecommons.jp/wp/wp-content/uploads/2009/10/by.png" alt="by.png" title="by.png" /></a></div>
 
@@ -298,7 +304,9 @@
 <li>画面右の Navigation にあるFASTQやSRALiteからデータがダウンロード可能</li></ul></li>
 <li>DDBJにあるドキュメント見てみる
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>データ構造（StudyとかExpとかRunとか）
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS31%2Fthecla&amp;openfile=dra.meta.halfsize.png" title="dra.meta.halfsize.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS31%2Fthecla&amp;src=dra.meta.halfsize.png" alt="dra.meta.halfsize.png" title="dra.meta.halfsize.png" width="514" height="568" /></a></div>
+
+![](dra.meta.halfsize.png)
+
 
 <a href="http://trace.ddbj.nig.ac.jp/dra/documentation.shtml" rel="nofollow">DDBJ Sequence Read Archive - Document - Metadata</a>より</li>
 <li>実データ
