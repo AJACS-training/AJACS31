@@ -1,7 +1,6 @@
 # 「遺伝子発現DB・解析ツールの紹介」　　担当：仲里 猛留
 
-<hr class="full_hr" />
-<p><a href="http://MotDB.DBCLS.jp/?AJACS31" title="AJACS31 (2133d)">AJACS宮崎</a> &gt; 「遺伝子発現DB・解析ツールの紹介」</p>
+
 <hr class="full_hr" />
 <h3 id="content_1_0"><a id="m3fb7546" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#m3fb7546" title="m3fb7546"><span class="sanchor">_</span></a> はじめに  </h3>
 
@@ -402,6 +401,4 @@ C@BBBECCECDBBBAAAAA&lt;441111&lt;?@&gt;?=?????44!00044322====22--..//6998222&lt;
 
 <div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_31"><a id="r5a1e034" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#r5a1e034" title="r5a1e034">_</a> 今後  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>混沌としておりますが、バージョンアップなどしてこなれていく + 整理される（はず）</li></ul>
-<hr class="full_hr" />
-<p><a href="http://MotDB.DBCLS.jp/?AJACS31" title="AJACS31 (2133d)">AJACS宮崎</a> &gt; 「遺伝子発現DB・解析ツールの紹介」</p>
-<hr class="full_hr" />
+
