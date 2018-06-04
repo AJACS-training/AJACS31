@@ -43,7 +43,7 @@
 
 
 <h3 id="content_1_2"><a id="e6622acd" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#e6622acd" title="e6622acd">_</a> おことわり  </h3>
-<ul class="list1" style="padding-left:16px;margin-left:16px"><li>Rや<span class="noexists">BioConductor<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=BioConductor&amp;refer=AJACS31%2Fthecla">?</a></span>などによるコマンドラインでのマイクロアレイの解析は今日はやりません。（∵ 時間がない。マシンパワーとディスク容量が必要なため）
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>RやBioConductorなどによるコマンドラインでのマイクロアレイの解析は今日はやりません。（∵ 時間がない。マシンパワーとディスク容量が必要なため）
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>かわりに参考サイト
 <ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="http://www.iu.a.u-tokyo.ac.jp/~kadota/r.html" rel="nofollow">(Rで)マイクロアレイデータ解析</a>（門田幸二さん：東京大学 大学院農学生命科学研究科 アグリバイオインフォマティクス教育研究ユニット）</li>
 <li>統合データベース講習会：<a href="http://motdb.dbcls.jp/?AJACS21%2Fwada" rel="nofollow">R/Bioconductorを使った遺伝子発現解析～導入と解析例～</a>：前項の簡易版。やっていることは下記の統合TVで紹介</li>
@@ -71,7 +71,7 @@
 
 <h3 id="content_1_4"><a id="h73a6e1c" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#h73a6e1c" title="h73a6e1c"><span class="sanchor">_</span></a> <a href="http://biogps.org/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">BioGPS</span></a> <span style="color:green">ヒト、マウス、ラットのさまざまな組織や細胞(株)における遺伝子発現プロファイルのデータベース</span>  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>何コレ：さまざまな臓器、細胞株での個々の遺伝子の発現についてまとめたもの</li>
-<li><a href="http://biogps.org/" rel="nofollow">BioGPS</a>はAffymetrix社製のマイクロアレイである<span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS31%2Fthecla">?</a></span>を用いた遺伝子発現プロファイルのデータベース。</li>
+<li><a href="http://biogps.org/" rel="nofollow">BioGPS</a>はAffymetrix社製のマイクロアレイであるGeneChipを用いた遺伝子発現プロファイルのデータベース。</li>
 <li><a href="http://symatlas.gnf.org/" rel="nofollow">GNF SymAtlas</a><a href="http://togotv.dbcls.jp/20070816.html" rel="nofollow">【参考動画】</a>のメジャーアップデート版。</li>
 <li>マウスのエキソンアレイのデータが追加されたので、遺伝子のスプライシングバリアント(Splicing variant)の発現状況も調べることが可能。</li>
 <li>検索した遺伝子に対して、種々の外部データベースに横断検索することができる。</li></ul>
@@ -90,18 +90,18 @@
 <li>8. [応用] 左上の「Search」タグをクリックして検索画面にもどり、自分の興味ある遺伝子について同様に検索してみましょう。</li></ul>
 
 <h3 id="content_1_6"><a id="j4909f31" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#j4909f31" title="j4909f31"><span class="sanchor">_</span></a> <a href="http://refex.dbcls.jp/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px"><span class="noexists">RefEx?</span></span></a> <span style="color:green">遺伝子発現データのリファレンスデータセット</span>  </h3>
-<ul class="list1" style="padding-left:16px;margin-left:16px"><li>何コレ：4種類の異なる手法 （EST, <span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS31%2Fthecla">?</a></span>?, CAGE, RNA-seq）によるヒト、マウスおよびラットの遺伝子発現データのリファレンスデータセット</li>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>何コレ：4種類の異なる手法 （EST, GeneChip?, CAGE, RNA-seq）によるヒト、マウスおよびラットの遺伝子発現データのリファレンスデータセット</li>
 <li>ようするに：発現解析にはいろいろな手法があって、それによって発現が高かったり低かったりするわけですが、それらを並べて、参照できるようなデータセットをつくりましょう、というコンセプトです。</li>
 <li>以下のようなシチュエーションで
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>ある臓器で発現の高いものを調べる</li>
 <li>ある染色体領域での発現の状況を眺める</li>
 <li>ある機能（ドメインを持つ、GOの語）をもつ遺伝子の発現状況を調べる</li></ul></li></ul>
 
-<h3 id="content_1_7"><a id="r88de5a1" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#r88de5a1" title="r88de5a1">_</a> 【実習2】<span class="noexists">RefEx<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=RefEx&amp;refer=AJACS31%2Fthecla">?</a></span> を使っていくつかの遺伝子の発現プロファイルを調べる  </h3>
+<h3 id="content_1_7"><a id="r88de5a1" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#r88de5a1" title="r88de5a1">_</a> 【実習2】RefEx を使っていくつかの遺伝子の発現プロファイルを調べる  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/20100618.html#p01" rel="nofollow">【使い方参考動画】</a> … ちょっと古くインターフェースがかわっています</li></ul>
 
 <h4 id="content_1_8"><a id="u82b1ff4" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#u82b1ff4" title="u82b1ff4">_</a> ある臓器で発現の高いものを調べる  </h4>
-<ul class="list1" style="padding-left:16px;margin-left:16px"><li>1. <span class="noexists">RefEx<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=RefEx&amp;refer=AJACS31%2Fthecla">?</a></span> <a href="http://refex.dbcls.jp/" rel="nofollow">http://refex.dbcls.jp/</a>を開く</li>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>1. RefEx <a href="http://refex.dbcls.jp/" rel="nofollow">http://refex.dbcls.jp/</a>を開く</li>
 <li>2. 「発現パターンから探す」タブをクリックする</li>
 <li>3. 大分類の10の臓器 or 小分類の40分類から臓器をクリック（例：骨格筋）</li>
 <li>4. 興味のある行をクリックすると、詳細が見られる</li></ul>
@@ -112,8 +112,8 @@
 
 <h3 id="content_1_10"><a id="gff484c3" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#gff484c3" title="gff484c3"><span class="sanchor">_</span></a> <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">NCBI Gene Expression Omnibus (GEO)</span></a>  </h3>
 <p><span style="color:green">世界最大の遺伝子発現（<a href="http://ja.wikipedia.org/wiki/DNA%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%AC%E3%82%A4" rel="nofollow">マイクロアレイ</a>）データベース（レポジトリ）</span></p>
-<p>塩基配列を研究者が<span class="noexists">GenBank<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GenBank&amp;refer=AJACS31%2Fthecla">?</a></span> (Nucleotide) に登録し、世界の人が見られるのと同じように、各々の発現情報も集められてみられるようになっています。それがGEOです。</p>
-<ul class="list1" style="padding-left:16px;margin-left:16px"><li>いろいろなデータ（<span class="noexists">DataSet<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=DataSet&amp;refer=AJACS31%2Fthecla">?</a></span>, Sample, Platform）が出てきて混乱するかと思います。<a href="http://www.ncbi.nlm.nih.gov/geo/info/overview.html" rel="nofollow">NCBI GEO Overview</a>が参考になるでしょう。</li></ul>
+<p>塩基配列を研究者がGenBank (Nucleotide) に登録し、世界の人が見られるのと同じように、各々の発現情報も集められてみられるようになっています。それがGEOです。</p>
+<ul class="list1" style="padding-left:16px;margin-left:16px"><li>いろいろなデータ（DataSet, Sample, Platform）が出てきて混乱するかと思います。<a href="http://www.ncbi.nlm.nih.gov/geo/info/overview.html" rel="nofollow">NCBI GEO Overview</a>が参考になるでしょう。</li></ul>
 
 <h4 id="content_1_11"><a id="pc9d26c7" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#pc9d26c7" title="pc9d26c7">_</a> 【実習3-1】GEOを使って、自分の興味のある遺伝子の（ある実験条件下における）発現状況を調べる  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/20090213.html#p01" rel="nofollow">【使い方参考動画】</a><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
@@ -149,8 +149,8 @@
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://lifesciencedb.jp/" rel="nofollow">統合ホームページ</a> &gt; データベース &gt; 遺伝子発現バンク(GEO)目次</li>
 <li>[ナニコレ] NCBIのGEO（Gene Expression Omnibus:mRNA発現情報のデータベース）に登録されている全レコードをプロジェクト単位で分類。「生物種」、「研究の型」、「部位」の三次元で分類。データを一括ダウンロード可能</li>
 <li><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a> <a href="http://togotv.dbcls.jp/20080623.html" rel="nofollow">遺伝子発現バンク(GEO)目次を使い倒す－その壱</a></li>
-<li>【実習3-1】「生物種」で特定の種を選ぶと、研究プロジェクト数が絞り込まれることで数が変化する。「生物種」で「ヒト」を選ぶ前と後で「研究の型」の「<span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS31%2Fthecla">?</a></span>」(Affymetrixの発現アレイ)、「cDNAアレイ」、「オリゴアレイ」の項目はいくつからいくつに変化するか？また、「生物種」に「齧歯」を選ぶとそれぞれどうか？</li>
-<li>【実習3-2】右上の検索フォームで'hypoxia'と入力して検索したあとで、「生物種」で「ヒト」、「研究の型」で「<span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS31%2Fthecla">?</a></span>」を選んで得られる研究プロジェクトのリストを表示せよ。「測定サンプル」のカラムの数字をクリックしてどのようなことが起こるか、確認してみよ。また、GSEで始まるGEOのエントリ（例えばGSE4725）をクリックするとNCBIのサイトに直接アクセスできるので、そのページにアクセスせよ。</li></ul>
+<li>【実習3-1】「生物種」で特定の種を選ぶと、研究プロジェクト数が絞り込まれることで数が変化する。「生物種」で「ヒト」を選ぶ前と後で「研究の型」の「GeneChip」(Affymetrixの発現アレイ)、「cDNAアレイ」、「オリゴアレイ」の項目はいくつからいくつに変化するか？また、「生物種」に「齧歯」を選ぶとそれぞれどうか？</li>
+<li>【実習3-2】右上の検索フォームで'hypoxia'と入力して検索したあとで、「生物種」で「ヒト」、「研究の型」で「GeneChip」を選んで得られる研究プロジェクトのリストを表示せよ。「測定サンプル」のカラムの数字をクリックしてどのようなことが起こるか、確認してみよ。また、GSEで始まるGEOのエントリ（例えばGSE4725）をクリックするとNCBIのサイトに直接アクセスできるので、そのページにアクセスせよ。</li></ul>
 
 <h3 id="content_1_14"><a id="r9de3e3b" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#r9de3e3b" title="r9de3e3b"><span class="sanchor">_</span></a> [参考] <a href="http://www.ebi.ac.uk/arrayexpress/" rel="nofollow">ArrayExpress</a>  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>[ナニコレ] GEOと双璧をなす遺伝子発現情報のデータベース</li>
@@ -246,21 +246,15 @@
 <h3 id="content_1_20"><a id="p8abeb91" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#p8abeb91" title="p8abeb91">_</a> NGSデータの規模  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>【実習】どのくらいのデータ量になるか考えてみましょう
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>ゲル板：750 (base/lane) × 48/4 lanes
-<a name="plugin_fold_anchor2"></a>
-<div class="plugin_fold_title_plus" onclick="return plugin_fold_onclick(this,event,'plugin_fold_anchor2')"><p>←こたえはここをクリック</p>
-</div>
+
 <div class="plugin_fold_body"><p>9kbase</p>
 </div></li>
 <li>キャピラリ：500 (base/lane) × 96 lane&#160;
-<a name="plugin_fold_anchor3"></a>
-<div class="plugin_fold_title_plus" onclick="return plugin_fold_onclick(this,event,'plugin_fold_anchor3')"><p>←こたえはここをクリック</p>
-</div>
+
 <div class="plugin_fold_body"><p>48kbase</p>
 </div></li>
 <li>次世代： 36 (base/seq) × 40M seq/run
-<a name="plugin_fold_anchor4"></a>
-<div class="plugin_fold_title_plus" onclick="return plugin_fold_onclick(this,event,'plugin_fold_anchor4')"><p>←こたえはここをクリック</p>
-</div>
+
 <div class="plugin_fold_body"><p>1.44Gbase = 1,440,000kbase</p>
 </div></li>
 <li>↑これらの数字は規模感をつかむだけなので、ざっくりな数字になっています（1 runにかかる時間は比較してないですし）</li>
@@ -287,8 +281,8 @@
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>予算がなくなったのでやめます</li>
 <li>解析結果は受け付けます
 <ul class="list3" style="padding-left:16px;margin-left:16px"><li>RNA-Seq, ChIP-Seq, and epigenomic data that are submitted to GEO</li>
-<li>Genomic and Transcriptomic assemblies that are submitted to <span class="noexists">GenBank<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GenBank&amp;refer=AJACS31%2Fthecla">?</a></span></li>
-<li>16S ribosomal RNA data associated with metagenomics that are submitted to <span class="noexists">GenBank<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GenBank&amp;refer=AJACS31%2Fthecla">?</a></span></li></ul></li>
+<li>Genomic and Transcriptomic assemblies that are submitted to GenBank</li>
+<li>16S ribosomal RNA data associated with metagenomics that are submitted to GenBank</li></ul></li>
 <li>EBI、DDBJは直後に続けます宣言
 <ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="http://www.ebi.ac.uk/ena/SRA_announcement_Feb_2011.pdf" rel="nofollow">EMBL-EBI will continue to support the Sequence Read Archive for raw data (PDF)</a></li>
 <li><a href="http://www.ddbj.nig.ac.jp/whatsnew/2011/DRA20110222.html" rel="nofollow">DDBJ will continue Sequence Raw Data Archiving</a></li></ul></li></ul></li>
@@ -367,7 +361,7 @@ C@BBBECCECDBBBAAAAA&lt;441111&lt;?@&gt;?=?????44!00044322====22--..//6998222&lt;
 
 <h3 id="content_1_28"><a id="qcf8b24a" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#qcf8b24a" title="qcf8b24a">_</a> 解析その1（Whole Genome, Transcriptomics）  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>その1：既知のゲノムに貼る (Reference Genome Mapping)
-<ul class="list2" style="padding-left:16px;margin-left:16px"><li>必要に応じ、マッピング結果（sam/bam形式）を<span class="noexists">RefSeq<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=RefSeq&amp;refer=AJACS31%2Fthecla">?</a></span>に対応付けてカウント</li></ul></li>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>必要に応じ、マッピング結果（sam/bam形式）をRefSeqに対応付けてカウント</li></ul></li>
 <li>その2：一からつなげる（De novo Assemble）</li></ul>
 
 <h4 id="content_1_29"><a id="c744f850" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#c744f850" title="c744f850">_</a> <a href="http://p.ddbj.nig.ac.jp/" rel="nofollow">DDBJ Read Annotation Pipeline</a>の使い方  </h4>
@@ -405,7 +399,7 @@ C@BBBECCECDBBBAAAAA&lt;441111&lt;?@&gt;?=?????44!00044322====22--..//6998222&lt;
 8. 「Change User Level」でユーザレベルを変えられます。Bronze = 初心者（すべてお任せ）、Silver = 中級者（プログラムのパラメータを自分で設定可能）、Gold = 上級者（解析プログラムを組み込んだりできるらしい）<br class="spacer" />
 9. 計算が終了すると、「Pipe Line History」から結果を見ることができます<br class="spacer" />
 　1. フォルダをクリックすると解析のサマリーと、各種ファイルのダウンロードリンクが表示されます（-a の付いているファイルがアノテーション付きの結果ファイル）<br class="spacer" />
-　2. ゲノムマップ上をクリックすると、その部分が拡大される。矢印をクリックするとORFの詳細が表示される（chrome ではORFの詳細が表示されない。<span class="noexists">FireFox<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=FireFox&amp;refer=AJACS31%2Fthecla">?</a></span>はOK）<br class="spacer" />
+　2. ゲノムマップ上をクリックすると、その部分が拡大される。矢印をクリックするとORFの詳細が表示される（chrome ではORFの詳細が表示されない。FireFoxはOK）<br class="spacer" />
 　3. 例えば「result-aa.fasta」「result.csv」「result-a.csv」をダウンロードして中身を閲覧<br class="spacer" /></p>
 
 <h3 id="content_1_31"><a id="r5a1e034" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#r5a1e034" title="r5a1e034">_</a> 今後  </h3>
