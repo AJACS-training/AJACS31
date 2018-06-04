@@ -4,7 +4,7 @@
 <hr class="full_hr" />
 <h3 id="content_1_0"><a id="m3fb7546" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#m3fb7546" title="m3fb7546"><span class="sanchor">_</span></a> はじめに  </h3>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_1"><a id="i5871588" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#i5871588" title="i5871588">_</a> 今回のメニュー  </h3>
+<h3 id="content_1_1"><a id="i5871588" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#i5871588" title="i5871588">_</a> 今回のメニュー  </h3>
 <div class="contents">
 <a id="contents_1"></a>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="#m3fb7546"> はじめに </a>
@@ -42,7 +42,7 @@
 </div>
 
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_2"><a id="e6622acd" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#e6622acd" title="e6622acd">_</a> おことわり  </h3>
+<h3 id="content_1_2"><a id="e6622acd" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#e6622acd" title="e6622acd">_</a> おことわり  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>Rや<span class="noexists">BioConductor<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=BioConductor&amp;refer=AJACS31%2Fthecla">?</a></span>などによるコマンドラインでのマイクロアレイの解析は今日はやりません。（∵ 時間がない。マシンパワーとディスク容量が必要なため）
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>かわりに参考サイト
 <ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="http://www.iu.a.u-tokyo.ac.jp/~kadota/r.html" rel="nofollow">(Rで)マイクロアレイデータ解析</a>（門田幸二さん：東京大学 大学院農学生命科学研究科 アグリバイオインフォマティクス教育研究ユニット）</li>
@@ -66,17 +66,17 @@
 <li>ウェブでできることをやります</li></ul>
 <hr class="full_hr" />
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_3"><a id="ob36f033" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#ob36f033" title="ob36f033"><span class="sanchor">_</span></a> 1つの遺伝子での遺伝子発現  </h3>
+<h3 id="content_1_3"><a id="ob36f033" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#ob36f033" title="ob36f033"><span class="sanchor">_</span></a> 1つの遺伝子での遺伝子発現  </h3>
 <hr class="full_hr" />
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_4"><a id="h73a6e1c" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#h73a6e1c" title="h73a6e1c"><span class="sanchor">_</span></a> <a href="http://biogps.org/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">BioGPS</span></a> <span style="color:green">ヒト、マウス、ラットのさまざまな組織や細胞(株)における遺伝子発現プロファイルのデータベース</span>  </h3>
+<h3 id="content_1_4"><a id="h73a6e1c" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#h73a6e1c" title="h73a6e1c"><span class="sanchor">_</span></a> <a href="http://biogps.org/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">BioGPS</span></a> <span style="color:green">ヒト、マウス、ラットのさまざまな組織や細胞(株)における遺伝子発現プロファイルのデータベース</span>  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>何コレ：さまざまな臓器、細胞株での個々の遺伝子の発現についてまとめたもの</li>
 <li><a href="http://biogps.org/" rel="nofollow">BioGPS</a>はAffymetrix社製のマイクロアレイである<span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS31%2Fthecla">?</a></span>を用いた遺伝子発現プロファイルのデータベース。</li>
 <li><a href="http://symatlas.gnf.org/" rel="nofollow">GNF SymAtlas</a><a href="http://togotv.dbcls.jp/20070816.html" rel="nofollow">【参考動画】</a>のメジャーアップデート版。</li>
 <li>マウスのエキソンアレイのデータが追加されたので、遺伝子のスプライシングバリアント(Splicing variant)の発現状況も調べることが可能。</li>
 <li>検索した遺伝子に対して、種々の外部データベースに横断検索することができる。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_5"><a id="j2eb939a" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#j2eb939a" title="j2eb939a">_</a> 【実習1】BioGPSを使ってある遺伝子の発現プロファイルを調べる  </h3>
+<h3 id="content_1_5"><a id="j2eb939a" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#j2eb939a" title="j2eb939a">_</a> 【実習1】BioGPSを使ってある遺伝子の発現プロファイルを調べる  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/20081004.html#p01" rel="nofollow">【使い方参考動画】</a>、<a href="http://togotv.dbcls.jp/20090217.html#p01" rel="nofollow">【講習会動画】</a><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. <a href="http://biogps.org/" rel="nofollow">http://biogps.org/</a>を開きます。</li>
 <li>2.水チャネル（水を通すトランスポーター）であるAQP3 (aquaporin 3) の発現プロファイルを調べてみましょう。中央の検索窓に「AQP3」と入力し、「search」を押します。</li>
@@ -89,7 +89,7 @@
 <li>7. 右上の「default rayout」をクリックすると、検索した遺伝子に関するマイクロアレイデータ以外のデータが閲覧できますが、どのようなデータが閲覧できるのか調べてみましょう。</li>
 <li>8. [応用] 左上の「Search」タグをクリックして検索画面にもどり、自分の興味ある遺伝子について同様に検索してみましょう。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_6"><a id="j4909f31" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#j4909f31" title="j4909f31"><span class="sanchor">_</span></a> <a href="http://refex.dbcls.jp/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px"><span class="noexists">RefEx?</span></span></a> <span style="color:green">遺伝子発現データのリファレンスデータセット</span>  </h3>
+<h3 id="content_1_6"><a id="j4909f31" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#j4909f31" title="j4909f31"><span class="sanchor">_</span></a> <a href="http://refex.dbcls.jp/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px"><span class="noexists">RefEx?</span></span></a> <span style="color:green">遺伝子発現データのリファレンスデータセット</span>  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>何コレ：4種類の異なる手法 （EST, <span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS31%2Fthecla">?</a></span>?, CAGE, RNA-seq）によるヒト、マウスおよびラットの遺伝子発現データのリファレンスデータセット</li>
 <li>ようするに：発現解析にはいろいろな手法があって、それによって発現が高かったり低かったりするわけですが、それらを並べて、参照できるようなデータセットをつくりましょう、というコンセプトです。</li>
 <li>以下のようなシチュエーションで
@@ -97,25 +97,25 @@
 <li>ある染色体領域での発現の状況を眺める</li>
 <li>ある機能（ドメインを持つ、GOの語）をもつ遺伝子の発現状況を調べる</li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_7"><a id="r88de5a1" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#r88de5a1" title="r88de5a1">_</a> 【実習2】<span class="noexists">RefEx<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=RefEx&amp;refer=AJACS31%2Fthecla">?</a></span> を使っていくつかの遺伝子の発現プロファイルを調べる  </h3>
+<h3 id="content_1_7"><a id="r88de5a1" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#r88de5a1" title="r88de5a1">_</a> 【実習2】<span class="noexists">RefEx<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=RefEx&amp;refer=AJACS31%2Fthecla">?</a></span> を使っていくつかの遺伝子の発現プロファイルを調べる  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/20100618.html#p01" rel="nofollow">【使い方参考動画】</a> … ちょっと古くインターフェースがかわっています</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_8"><a id="u82b1ff4" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#u82b1ff4" title="u82b1ff4">_</a> ある臓器で発現の高いものを調べる  </h4>
+<h4 id="content_1_8"><a id="u82b1ff4" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#u82b1ff4" title="u82b1ff4">_</a> ある臓器で発現の高いものを調べる  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>1. <span class="noexists">RefEx<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=RefEx&amp;refer=AJACS31%2Fthecla">?</a></span> <a href="http://refex.dbcls.jp/" rel="nofollow">http://refex.dbcls.jp/</a>を開く</li>
 <li>2. 「発現パターンから探す」タブをクリックする</li>
 <li>3. 大分類の10の臓器 or 小分類の40分類から臓器をクリック（例：骨格筋）</li>
 <li>4. 興味のある行をクリックすると、詳細が見られる</li></ul>
 <hr class="full_hr" />
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_9"><a id="s8ba57b8" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#s8ba57b8" title="s8ba57b8"><span class="sanchor">_</span></a> 全遺伝子を対象にした（=オミックス）遺伝子発現・その1：マイクロアレイ  </h3>
+<h3 id="content_1_9"><a id="s8ba57b8" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#s8ba57b8" title="s8ba57b8"><span class="sanchor">_</span></a> 全遺伝子を対象にした（=オミックス）遺伝子発現・その1：マイクロアレイ  </h3>
 <hr class="full_hr" />
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_10"><a id="gff484c3" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#gff484c3" title="gff484c3"><span class="sanchor">_</span></a> <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">NCBI Gene Expression Omnibus (GEO)</span></a>  </h3>
+<h3 id="content_1_10"><a id="gff484c3" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#gff484c3" title="gff484c3"><span class="sanchor">_</span></a> <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">NCBI Gene Expression Omnibus (GEO)</span></a>  </h3>
 <p><span style="color:green">世界最大の遺伝子発現（<a href="http://ja.wikipedia.org/wiki/DNA%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%82%A2%E3%83%AC%E3%82%A4" rel="nofollow">マイクロアレイ</a>）データベース（レポジトリ）</span></p>
 <p>塩基配列を研究者が<span class="noexists">GenBank<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GenBank&amp;refer=AJACS31%2Fthecla">?</a></span> (Nucleotide) に登録し、世界の人が見られるのと同じように、各々の発現情報も集められてみられるようになっています。それがGEOです。</p>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>いろいろなデータ（<span class="noexists">DataSet<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=DataSet&amp;refer=AJACS31%2Fthecla">?</a></span>, Sample, Platform）が出てきて混乱するかと思います。<a href="http://www.ncbi.nlm.nih.gov/geo/info/overview.html" rel="nofollow">NCBI GEO Overview</a>が参考になるでしょう。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_11"><a id="pc9d26c7" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#pc9d26c7" title="pc9d26c7">_</a> 【実習3-1】GEOを使って、自分の興味のある遺伝子の（ある実験条件下における）発現状況を調べる  </h4>
+<h4 id="content_1_11"><a id="pc9d26c7" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#pc9d26c7" title="pc9d26c7">_</a> 【実習3-1】GEOを使って、自分の興味のある遺伝子の（ある実験条件下における）発現状況を調べる  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/20090213.html#p01" rel="nofollow">【使い方参考動画】</a><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">http://www.ncbi.nlm.nih.gov/geo/</a>を開きます。</li>
 <li>2.「Gene profiles」に自分の検索したい遺伝子名を入力します。</li>
@@ -129,7 +129,7 @@
 <li>10. <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE5583" rel="nofollow">この実験全体の詳細情報ページ</a>の下部にある<a href="ftp://ftp.ncbi.nih.gov/pub/geo/DATA/SeriesMatrix/GSE5583/" rel="nofollow">「Series Matrix File(s)」</a>をクリックすると、この実験の正規化補正済みのマイクロアレイデータをダウンロードすることができます。</li>
 <li>11. ページ最下部の「Supplementary file」にあるリンクから生データをダウンロードすることができます。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_12"><a id="dff23990" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#dff23990" title="dff23990">_</a> 【実習3-2】データセットブラウザ(Dataset browser)を利用して、GEOに登録されているマイクロアレイデータを解析する  </h4>
+<h4 id="content_1_12"><a id="dff23990" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#dff23990" title="dff23990">_</a> 【実習3-2】データセットブラウザ(Dataset browser)を利用して、GEOに登録されているマイクロアレイデータを解析する  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/20090221.html#p01" rel="nofollow">【使い方参考動画1】</a><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a> 、<a href="http://togotv.dbcls.jp/20090307.html#p01" rel="nofollow">【使い方参考動画2】</a><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. <a href="http://www.ncbi.nlm.nih.gov/geo/" rel="nofollow">http://www.ncbi.nlm.nih.gov/geo/</a>を開きます。</li>
 <li>2.「Gene profiles」に自分の検索したい遺伝子名を入力します。</li>
@@ -145,20 +145,20 @@
 <li>12. <span style="color:green">クラスタリング等の解析: </span>「Compare 2 sets of samples」では2群間で発現に差のある遺伝子を（統計学的に）検索できます。step1で発現量の違いを検出する方法を設定します。step.2で比較する2群の設定をします。step.3の「Query Group A vs. B」をクリックすると、検索が始まります。</li>
 <li>13. 「Cluster heatmaps」では、マイクロアレイデータ解析でよく用いられる<a href="http://MotDB.DBCLS.jp/?%5B%5Bhttp%3A%2F%2Fimages.google.co.jp%2Fimages%3Fq%3D%A5%D2%A1%BC%A5%C8%A5%DE%A5%C3%A5%D7%5D%5D" title="http://images.google.co.jp/images?q=ヒートマップ" rel="nofollow">ヒートマップ</a>でのデータ表示が行なえます。分類方法としてHierarchical、Partitional (K-means/K-medians)、By location on chromosomeの3種類が選べますが、それぞれどのようにデータが分類されるか試してみましょう。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_13"><a id="u64109b9" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#u64109b9" title="u64109b9"><span class="sanchor">_</span></a> 遺伝子発現バンク(GEO)目次：<a href="http://lifesciencedb.jp/geo/" rel="nofollow">http://lifesciencedb.jp/geo/</a>  </h3>
+<h3 id="content_1_13"><a id="u64109b9" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#u64109b9" title="u64109b9"><span class="sanchor">_</span></a> 遺伝子発現バンク(GEO)目次：<a href="http://lifesciencedb.jp/geo/" rel="nofollow">http://lifesciencedb.jp/geo/</a>  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://lifesciencedb.jp/" rel="nofollow">統合ホームページ</a> &gt; データベース &gt; 遺伝子発現バンク(GEO)目次</li>
 <li>[ナニコレ] NCBIのGEO（Gene Expression Omnibus:mRNA発現情報のデータベース）に登録されている全レコードをプロジェクト単位で分類。「生物種」、「研究の型」、「部位」の三次元で分類。データを一括ダウンロード可能</li>
 <li><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a> <a href="http://togotv.dbcls.jp/20080623.html" rel="nofollow">遺伝子発現バンク(GEO)目次を使い倒す－その壱</a></li>
 <li>【実習3-1】「生物種」で特定の種を選ぶと、研究プロジェクト数が絞り込まれることで数が変化する。「生物種」で「ヒト」を選ぶ前と後で「研究の型」の「<span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS31%2Fthecla">?</a></span>」(Affymetrixの発現アレイ)、「cDNAアレイ」、「オリゴアレイ」の項目はいくつからいくつに変化するか？また、「生物種」に「齧歯」を選ぶとそれぞれどうか？</li>
 <li>【実習3-2】右上の検索フォームで'hypoxia'と入力して検索したあとで、「生物種」で「ヒト」、「研究の型」で「<span class="noexists">GeneChip<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=GeneChip&amp;refer=AJACS31%2Fthecla">?</a></span>」を選んで得られる研究プロジェクトのリストを表示せよ。「測定サンプル」のカラムの数字をクリックしてどのようなことが起こるか、確認してみよ。また、GSEで始まるGEOのエントリ（例えばGSE4725）をクリックするとNCBIのサイトに直接アクセスできるので、そのページにアクセスせよ。</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_14"><a id="r9de3e3b" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#r9de3e3b" title="r9de3e3b"><span class="sanchor">_</span></a> [参考] <a href="http://www.ebi.ac.uk/arrayexpress/" rel="nofollow">ArrayExpress</a>  </h3>
+<h3 id="content_1_14"><a id="r9de3e3b" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#r9de3e3b" title="r9de3e3b"><span class="sanchor">_</span></a> [参考] <a href="http://www.ebi.ac.uk/arrayexpress/" rel="nofollow">ArrayExpress</a>  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>[ナニコレ] GEOと双璧をなす遺伝子発現情報のデータベース</li>
 <li>European Bioinformatics Institute (EBI)が提供・維持管理している遺伝子発現情報のデータベースで、主にマイクロアレイのデータを収載</li>
 <li>統合TV：<a href="http://togotv.dbcls.jp/20120217.html#p01" rel="nofollow">ArrayExpressを使い倒す1　データの検索方法および生データのダウンロード方法 2012</a></li>
 <li>統合TV：<a href="http://togotv.dbcls.jp/20120218.html#p01" rel="nofollow">ArrayExpressを使い倒す2　Atlas of Gene Expressionを使って遺伝子発現状況を調べる 2012</a></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_15"><a id="rf23614d" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#rf23614d" title="rf23614d"><span class="sanchor">_</span></a> <a href="http://david.abcc.ncifcrf.gov/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">DAVID: The Database for Annotation, Visualization and Integrated Discovery</span></a>  </h3>
+<h3 id="content_1_15"><a id="rf23614d" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#rf23614d" title="rf23614d"><span class="sanchor">_</span></a> <a href="http://david.abcc.ncifcrf.gov/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">DAVID: The Database for Annotation, Visualization and Integrated Discovery</span></a>  </h3>
 <p><span style="color:green">マイクロアレイデータの生物学的な解釈</span></p>
 <div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS31%2Fthecla&amp;openfile=microarray.analysis.005.png" title="microarray.analysis.005.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS31%2Fthecla&amp;src=microarray.analysis.005.png" alt="microarray.analysis.005.png" title="microarray.analysis.005.png" width="410" height="242" /></a></div>
 
@@ -166,7 +166,7 @@
 <li>そこで、Gene Ontologyの用語を付与することで、生物学的な解釈を行います。</li>
 <li>【参考動画】<a href="http://togotv.dbcls.jp/20090925.html#p01" rel="nofollow">DAVIDを使ってマイクロアレイデータを解析する</a><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_16"><a id="kd87cf7d" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#kd87cf7d" title="kd87cf7d">_</a> 【実習4】DAVIDを用いて、発現データの結果を生物学的に解釈する  </h4>
+<h4 id="content_1_16"><a id="kd87cf7d" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#kd87cf7d" title="kd87cf7d">_</a> 【実習4】DAVIDを用いて、発現データの結果を生物学的に解釈する  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>1. 上部メニューの「Start Analysis」をクリック</li>
 <li>2. 画面左側バーで、probe IDリストをコピペ or ファイルを指定
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>今回は、統合TVと同じ、NCBI GEOより取得した公共の遺伝子発現データ（GSE1657:Adipocyte Differentiation [Homo sapiens]）を用いて、ヒトの脂肪細胞の分化過程で発現増加した<a href="http://motdb.dbcls.jp/?plugin=attach&amp;refer=AJACS12%2Fhono3&amp;openfile=090907_sample_U133A_adipo.txt" rel="nofollow">上位500個の遺伝子群のリスト</a>を使って説明しています。</li></ul></li>
@@ -187,10 +187,10 @@
 <li>[応用編] Pathways &gt; KEGG_PATHWAY や Tissue Expression &gt; UP_TISSUE なども見てみよう。生物学的にどういうことが言えるだろうか。</li></ul>
 <hr class="full_hr" />
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_17"><a id="d92d75b7" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#d92d75b7" title="d92d75b7"><span class="sanchor">_</span></a> 全遺伝子を対象にした（=オミックス）遺伝子発現・その2：次世代シーケンサ (NGS)  </h3>
+<h3 id="content_1_17"><a id="d92d75b7" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#d92d75b7" title="d92d75b7"><span class="sanchor">_</span></a> 全遺伝子を対象にした（=オミックス）遺伝子発現・その2：次世代シーケンサ (NGS)  </h3>
 <hr class="full_hr" />
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_18"><a id="x0c4b5f7" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#x0c4b5f7" title="x0c4b5f7"><span class="sanchor">_</span></a> 次世代シーケンサ（とそのデータ）基礎知識  </h3>
+<h3 id="content_1_18"><a id="x0c4b5f7" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#x0c4b5f7" title="x0c4b5f7"><span class="sanchor">_</span></a> 次世代シーケンサ（とそのデータ）基礎知識  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>言葉
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>次世代シーケンサ</li>
 <li>次世代シーケンサー</li>
@@ -199,7 +199,7 @@
 <li>Next-generation Sequiencing (NGS)</li>
 <li>他にmassively parallel DNA sequencing とか...</li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_19"><a id="tb010966" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#tb010966" title="tb010966">_</a> 何が新型／次世代なのか?  </h3>
+<h3 id="content_1_19"><a id="tb010966" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#tb010966" title="tb010966">_</a> 何が新型／次世代なのか?  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>90年代
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>ゲル板</li>
 <li>ポリアクリルアミドゲル電気泳動 + 蛍光標識ダイデオキシヌクレオチド
@@ -236,7 +236,7 @@
 &#169; 2011 DBCLS Licensed under CC 表示 2.1 日本
 ←クレジットをいれれば、転載・改変・再利用 OK</li></ul></li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_20"><a id="p8abeb91" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#p8abeb91" title="p8abeb91">_</a> NGSデータの規模  </h3>
+<h3 id="content_1_20"><a id="p8abeb91" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#p8abeb91" title="p8abeb91">_</a> NGSデータの規模  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>【実習】どのくらいのデータ量になるか考えてみましょう
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>ゲル板：750 (base/lane) × 48/4 lanes
 <a name="plugin_fold_anchor2"></a>
@@ -263,7 +263,7 @@
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="http://bit.ly/ngsspecbydritoshi" rel="nofollow">http://bit.ly/ngsspecbydritoshi</a> （二階堂さん@理研）</li>
 <li><a href="http://dbcls.rois.ac.jp/~kawano/ng.html" rel="nofollow">http://dbcls.rois.ac.jp/~kawano/ng.html</a> （河野さん@DBCLS）</li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_21"><a id="j6cd4673" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#j6cd4673" title="j6cd4673">_</a> SRAとは  </h3>
+<h3 id="content_1_21"><a id="j6cd4673" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#j6cd4673" title="j6cd4673">_</a> SRAとは  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>NGSのデータのレポジトリサイトです</li>
 <li>SRA = Sequence Read Archive
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>昔は「Short Read Archive」だったが、shortでなくなってきたので</li></ul></li>
@@ -275,7 +275,7 @@
 <ul class="list3" style="padding-left:16px;margin-left:16px"><li>DDBJを見に行ったとして、入っているのは日本だけ、ということはない、ということです。</li>
 <li>（ただ、個人情報にからむものは、実際の配列データはしかるべきところにしかないものがあるとかないとか）</li></ul></li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_22"><a id="sf7df990" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#sf7df990" title="sf7df990">_</a> NCBI SRAやめます事件(11/2/16 現地時間)  </h4>
+<h4 id="content_1_22"><a id="sf7df990" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#sf7df990" title="sf7df990">_</a> NCBI SRAやめます事件(11/2/16 現地時間)  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://www.ncbi.nlm.nih.gov/About/news/16feb2011" rel="nofollow">NCBI To Discontinue Sequence Read Archive and Peptidome</a>
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>予算がなくなったのでやめます</li>
 <li>解析結果は受け付けます
@@ -288,7 +288,7 @@
 <li>NCBI SRA（一応）続けられます宣言(11/5/9)
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>（とりあえず）<a href="http://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?view=history" rel="nofollow">SRA Archive is still in service. (List of all News, Events and Notifications)</a></li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_23"><a id="ge26a128" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#ge26a128" title="ge26a128">_</a> 【実習】DRASearchを使ってみる（ <a href="http://trace.ddbj.nig.ac.jp/DRASearch/" rel="nofollow">http://trace.ddbj.nig.ac.jp/DRASearch/</a> ）  </h3>
+<h3 id="content_1_23"><a id="ge26a128" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#ge26a128" title="ge26a128">_</a> 【実習】DRASearchを使ってみる（ <a href="http://trace.ddbj.nig.ac.jp/DRASearch/" rel="nofollow">http://trace.ddbj.nig.ac.jp/DRASearch/</a> ）  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>こういうときはNCBIと思いがちですが、データ転送量が多い + インターフェースきれい なのでDDBJを使いましょう
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="http://trace.ddbj.nig.ac.jp/DRASearch/" rel="nofollow">http://trace.ddbj.nig.ac.jp/DRASearch/</a> にアクセス</li>
 <li>Keyword に興味のある語を入れてみましょう（例：variation）</li>
@@ -311,7 +311,7 @@ C@BBBECCECDBBBAAAAA&lt;441111&lt;?@&gt;?=?????44!00044322====22--..//6998222&lt;
 <li>3行目： + （+ タイトル）</li>
 <li>4行目：シーケンスクオリティ</li></ul></li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_24"><a id="ua06a95a" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#ua06a95a" title="ua06a95a">_</a> 統計情報から検索する (SRAs： <a href="http://sra.dbcls.jp/" rel="nofollow">http://sra.dbcls.jp/</a> )  </h3>
+<h3 id="content_1_24"><a id="ua06a95a" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#ua06a95a" title="ua06a95a">_</a> 統計情報から検索する (SRAs： <a href="http://sra.dbcls.jp/" rel="nofollow">http://sra.dbcls.jp/</a> )  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>まずは普通に全部表示：まずは見てみる → by Studies
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>最初は新着順です</li>
 <li>【実習】収載されているもので大規模にデータを出しているプロジェクトは何でしょう? → Exps や Runs をクリックして sortしてみる</li></ul></li>
@@ -326,7 +326,7 @@ C@BBBECCECDBBBAAAAA&lt;441111&lt;?@&gt;?=?????44!00044322====22--..//6998222&lt;
 <ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="http://sra.dbcls.jp/sra.stat.html" rel="nofollow">Study別（Totalあり）</a></li>
 <li><a href="http://sra.dbcls.jp/sra.stat.2.html" rel="nofollow">Study別（Totalなし）</a></li></ul></li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_25"><a id="k43437ef" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#k43437ef" title="k43437ef">_</a> 文献から検索する  </h3>
+<h3 id="content_1_25"><a id="k43437ef" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#k43437ef" title="k43437ef">_</a> 文献から検索する  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>質のいいデータで解析したい → ひとつの基準として論文が出ていれば質は高かろう</li>
 <li>SRAs の文献リスト： <a href="http://sra.dbcls.jp/cgi-bin/publication.cgi" rel="nofollow">http://sra.dbcls.jp/cgi-bin/publication.cgi</a>
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>NGS関連文献とそこで言及されているNGSデータのリスト</li>
@@ -338,7 +338,7 @@ C@BBBECCECDBBBAAAAA&lt;441111&lt;?@&gt;?=?????44!00044322====22--..//6998222&lt;
 <li>【実習】鎖鋸をつかってみる：hypoxia で検索
 <ul class="list3" style="padding-left:16px;margin-left:16px"><li>この場合、データが汚い（よくある）：SRAsのリストでExperimentを比較 <a href="http://sra.dbcls.jp/cgi-bin/experimentlist.cgi?rp=SRP000403&amp;limit=20" rel="nofollow">http://sra.dbcls.jp/cgi-bin/experimentlist.cgi?rp=SRP000403&amp;limit=20</a></li></ul></li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_26"><a id="neab7413" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#neab7413" title="neab7413">_</a> 疾患から検索する  </h3>
+<h3 id="content_1_26"><a id="neab7413" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#neab7413" title="neab7413">_</a> 疾患から検索する  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>文献が出ているもののうち、疾患に関連するものを疾患名でまとめた → 論文が出ていないものについても拡張予定</li>
 <li>1. <a href="http://sra.dbcls.jp/" rel="nofollow">SRAs</a>にアクセス</li>
 <li>2. 下の方の Search by diseasesから
@@ -346,7 +346,7 @@ C@BBBECCECDBBBAAAAA&lt;441111&lt;?@&gt;?=?????44!00044322====22--..//6998222&lt;
 ｰｰ<a href="http://sra.dbcls.jp/cgi-bin/diseasetree.cgi" rel="nofollow">疾患別</a></li>
 <li><a href="http://sra.dbcls.jp/cgi-bin/disease.cgi" rel="nofollow">全リスト</a></li></ul></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_27"><a id="oeb6c9d7" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#oeb6c9d7" title="oeb6c9d7">_</a> SRAへのNGSデータの登録  </h3>
+<h3 id="content_1_27"><a id="oeb6c9d7" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#oeb6c9d7" title="oeb6c9d7">_</a> SRAへのNGSデータの登録  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>流れ
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>FASTQを用意</li>
 <li>DDBJの登録サイト（D-way）で実験条件を記入 → メタデータが作成される</li>
@@ -356,12 +356,12 @@ C@BBBECCECDBBBAAAAA&lt;441111&lt;?@&gt;?=?????44!00044322====22--..//6998222&lt;
 <li><a href="http://trace.ddbj.nig.ac.jp/dra/submission.shtml" rel="nofollow">登録マニュアル by DDBJ</a></li>
 <li><a href="http://trace.ddbj.nig.ac.jp/dra/index.shtml" rel="nofollow">チュートリアルムービー</a></li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_28"><a id="qcf8b24a" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#qcf8b24a" title="qcf8b24a">_</a> 解析その1（Whole Genome, Transcriptomics）  </h3>
+<h3 id="content_1_28"><a id="qcf8b24a" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#qcf8b24a" title="qcf8b24a">_</a> 解析その1（Whole Genome, Transcriptomics）  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>その1：既知のゲノムに貼る (Reference Genome Mapping)
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>必要に応じ、マッピング結果（sam/bam形式）を<span class="noexists">RefSeq<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=RefSeq&amp;refer=AJACS31%2Fthecla">?</a></span>に対応付けてカウント</li></ul></li>
 <li>その2：一からつなげる（De novo Assemble）</li></ul>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h4 id="content_1_29"><a id="c744f850" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#c744f850" title="c744f850">_</a> <a href="http://p.ddbj.nig.ac.jp/" rel="nofollow">DDBJ Read Annotation Pipeline</a>の使い方  </h4>
+<h4 id="content_1_29"><a id="c744f850" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#c744f850" title="c744f850">_</a> <a href="http://p.ddbj.nig.ac.jp/" rel="nofollow">DDBJ Read Annotation Pipeline</a>の使い方  </h4>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/20100617.html" rel="nofollow">今日からはじめるDDBJ Read Annotation Pipeline</a> (Reference Genome Mapping) <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li></ul>
 <p>1. <a href="http://p.ddbj.nig.ac.jp/" rel="nofollow">DDBJ Read Annotation Pipeline</a>にアクセス<br class="spacer" />
 2. ゲストとしてログイン をクリック。もしくは User ID: guest    Passwordは空白でログインできます<br class="spacer" />
@@ -384,7 +384,7 @@ C@BBBECCECDBBBAAAAA&lt;441111&lt;?@&gt;?=?????44!00044322====22--..//6998222&lt;
 9. 左側にある「MENU」の「STATUS」から、解析の実行状況について確認できます<br class="spacer" />
 10. 実行結果から、リファレンス配列（Chromosome）とMapping結果ファイル（out.sam、下から3番目）をダウンロードし、<a href="http://bioinf.scri.ac.uk/tablet/" rel="nofollow">Tablet</a> などのViewerで結果を表示できます（ファイルサイズが大きいため、今回は省略します）</p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_30"><a id="ic675a3a" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#ic675a3a" title="ic675a3a">_</a> 解析その2（Metagenomics）：<a href="http://www.migap.org/" rel="nofollow">MiGAP</a> の使い方  </h3>
+<h3 id="content_1_30"><a id="ic675a3a" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#ic675a3a" title="ic675a3a">_</a> 解析その2（Metagenomics）：<a href="http://www.migap.org/" rel="nofollow">MiGAP</a> の使い方  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/20100624.html#p01" rel="nofollow">MiGAPの使い方～導入と基本操作～</a> <a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a> … ちょっと古いかも</li></ul>
 <p>1. <a href="http://lifesciencedb.jp/" rel="nofollow">統合データベースプロジェクトページ</a>の「ツール＆解析サービス」にある<a href="http://www.migap.org/" rel="nofollow">MiGAP</a>をクリック<br class="spacer" />
 2. 左上のバナーをクリック<br class="spacer" />
@@ -399,6 +399,6 @@ C@BBBECCECDBBBAAAAA&lt;441111&lt;?@&gt;?=?????44!00044322====22--..//6998222&lt;
 　2. ゲノムマップ上をクリックすると、その部分が拡大される。矢印をクリックするとORFの詳細が表示される（chrome ではORFの詳細が表示されない。<span class="noexists">FireFox<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=FireFox&amp;refer=AJACS31%2Fthecla">?</a></span>はOK）<br class="spacer" />
 　3. 例えば「result-aa.fasta」「result.csv」「result-a.csv」をダウンロードして中身を閲覧<br class="spacer" /></p>
 
-<div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_31"><a id="r5a1e034" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#r5a1e034" title="r5a1e034">_</a> 今後  </h3>
+<h3 id="content_1_31"><a id="r5a1e034" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#r5a1e034" title="r5a1e034">_</a> 今後  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>混沌としておりますが、バージョンアップなどしてこなれていく + 整理される（はず）</li></ul>
 
