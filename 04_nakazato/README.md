@@ -13,7 +13,7 @@
 <li><a href="#ob36f033"> 1つの遺伝子での遺伝子発現 </a></li>
 <li><a href="#h73a6e1c"> BioGPS ヒト、マウス、ラットのさまざまな組織や細胞(株)における遺伝子発現プロファイルのデータベース </a>
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#j2eb939a"> 【実習1】BioGPSを使ってある遺伝子の発現プロファイルを調べる </a></li></ul></li>
-<li><a href="#j4909f31"> RefEx? 遺伝子発現データのリファレンスデータセット </a>
+<li><a href="#j4909f31"> RefEx 遺伝子発現データのリファレンスデータセット </a>
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li><a href="#r88de5a1"> 【実習2】RefEx を使っていくつかの遺伝子の発現プロファイルを調べる </a>
 <ul class="list3" style="padding-left:16px;margin-left:16px"><li><a href="#u82b1ff4"> ある臓器で発現の高いものを調べる </a></li></ul></li></ul></li>
 <li><a href="#s8ba57b8"> 全遺伝子を対象にした（=オミックス）遺伝子発現・その1：マイクロアレイ </a></li>
@@ -89,7 +89,8 @@
 <li>7. 右上の「default rayout」をクリックすると、検索した遺伝子に関するマイクロアレイデータ以外のデータが閲覧できますが、どのようなデータが閲覧できるのか調べてみましょう。</li>
 <li>8. [応用] 左上の「Search」タグをクリックして検索画面にもどり、自分の興味ある遺伝子について同様に検索してみましょう。</li></ul>
 
-<h3 id="content_1_6"><a id="j4909f31" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#j4909f31" title="j4909f31"><span class="sanchor">_</span></a> <a href="http://refex.dbcls.jp/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px"><span class="noexists">RefEx?</span></span></a> <span style="color:green">遺伝子発現データのリファレンスデータセット</span>  </h3>
+<h3 id="content_1_6"><a id="j4909f31" href="http://MotDB.DBCLS.jp/?AJACS31%2Fthecla#j4909f31" title="j4909f31"><span class="sanchor">_</span></a> 
+RefEx  <span style="color:green">遺伝子発現データのリファレンスデータセット</span>  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>何コレ：4種類の異なる手法 （EST, GeneChip?, CAGE, RNA-seq）によるヒト、マウスおよびラットの遺伝子発現データのリファレンスデータセット</li>
 <li>ようするに：発現解析にはいろいろな手法があって、それによって発現が高かったり低かったりするわけですが、それらを並べて、参照できるようなデータセットをつくりましょう、というコンセプトです。</li>
 <li>以下のようなシチュエーションで
