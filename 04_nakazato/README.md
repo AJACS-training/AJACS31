@@ -211,7 +211,8 @@
 <li><a href="http://ja.wikipedia.org/wiki/DNA%E3%82%B7%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%82%B7%E3%83%B3%E3%82%B0#.E6.A4.9C.E5.87.BA" rel="nofollow">DNAシークエンシング - Wikipedia -- 検出</a>も参照</li></ul></li></ul>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>00年代
 <ul class="list2" style="padding-left:16px;margin-left:16px"><li>キャピラリ
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS31%2Fthecla&amp;openfile=capillary.jpg" title="capillary.jpg"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS31%2Fthecla&amp;src=capillary.jpg" alt="capillary.jpg" title="capillary.jpg" width="600" height="489" /></a></div>
+
+![](capillary.jpg)
 
 <a href="http://www.appliedbiosystems.jp/website/jp/product/modelpage.jsp?MODELCD=50768&amp;MODELPGCD=66447" rel="nofollow">ABI PRISM&#174; 3100-Avant Genetic Analyzerより</a></li></ul></li></ul>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>10年代
